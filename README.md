@@ -1,4 +1,5 @@
-# «Ένα παγκάκι μες στην πόλη…» <br>
+# «Ένα παγκάκι μες στην πόλη…» - <br>
+«One bench in the city»
 ######Open Design - Διαγωνισμός Ανοιχτής Σχεδίασης Εξοπλισμού Δημοσίων Χώρων - ΕΛ/ΛΑΚ
 GitHub repository: https://github.com/ellak-monades-aristeias/Ena-pagkaki-mes-stin-poli
  <br> 
