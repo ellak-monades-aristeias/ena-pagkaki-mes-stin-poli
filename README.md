@@ -15,8 +15,8 @@ GitHub repository: https://github.com/ellak-monades-aristeias/Ena-pagkaki-mes-st
 Γιαννούτσου Μπίλυ <br>
 Ζαχαριάδης Ιωάννης <br>
 Μάνιος Μανώλης <br>
- <br> <br>
- 
+ <br> <br> <br>
+ --English description on the bottom of the page-- <br>
 ![2jpeg](https://cloud.githubusercontent.com/assets/14345719/10191744/784d4acc-677f-11e5-96bf-92812bb0ab80.jpg)
 <b> _ΚΕΝΤΡΙΚΗ ΙΔΕΑ-ΧΡΗΣΗ </b> 
 
