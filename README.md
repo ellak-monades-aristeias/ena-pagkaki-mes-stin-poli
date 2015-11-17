@@ -16,6 +16,8 @@ GitHub repository: https://github.com/ellak-monades-aristeias/Ena-pagkaki-mes-st
 Ζαχαριάδης Ιωάννης <br>
 Μάνιος Μανώλης <br>
  <br> <br>
+ 
+![1jpeg](https://cloud.githubusercontent.com/assets/14345719/10191743/784c2520-677f-11e5-9c9b-1f5370a1693c.jpg)
 <b> _ΚΕΝΤΡΙΚΗ ΙΔΕΑ-ΧΡΗΣΗ </b> 
 
 Η πρότασή μας εστιάζει στη δημιουργία ενός ευχάριστου χώρου στάσης των πεζών μέσα στην πόλη. 
