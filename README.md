@@ -6,9 +6,9 @@ GitHub repository: https://github.com/ellak-monades-aristeias/Ena-pagkaki-mes-st
  <br> 
 
 
-**Αγγελάκη Ευγενία-Μακρίνα  (Σχολή Αρχιτεκτόνων Ε.Μ.Π.)**
+**Αγγελάκη Ευγενία-Μακρίνα  (Σχολή Αρχιτεκτόνων Ε.Μ.Π.)** - Angelaki Evgenia - Architecture NTUA
  <br>
-**Σιούτης Θεόδωρος  (Σχολή Αρχιτεκτόνων Ε.Μ.Π.)**
+**Σιούτης Θεόδωρος  (Σχολή Αρχιτεκτόνων Ε.Μ.Π.)** - Sioutis Thodoris - Architecture NTUA
  <br> 
  
 **Σύμβουλοι καθηγητές:**  <br>
