@@ -56,4 +56,4 @@ GitHub repository: https://github.com/ellak-monades-aristeias/Ena-pagkaki-mes-st
 -Το μπετονένιο κομμάτι του καθίσματος, μπορεί να καλουπωθεί σε ξυλότυπο ή μεταλλότυπο για περεταίρω τυποποίηση.
 ___________________________________________________________________________________________________________
 
-
+![photofinal](https://github.com/ellak-monades-aristeias/Ena-pagkaki-mes-stin-poli/blob/master/%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B5%CF%82%20%CF%85%CE%BB%CE%BF%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%AD%CE%BD%CE%BF%CF%85%20%CE%AD%CF%81%CE%B3%CE%BF%CF%85/DSC_8440.JPG?raw=true)
