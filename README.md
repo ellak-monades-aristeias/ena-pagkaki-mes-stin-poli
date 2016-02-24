@@ -3,7 +3,7 @@
 ######Open Design - Διαγωνισμός Ανοιχτής Σχεδίασης Εξοπλισμού Δημοσίων Χώρων - ΕΛ/ΛΑΚ
 GitHub repository: https://github.com/ellak-monades-aristeias/Ena-pagkaki-mes-stin-poli
  <br> 
- <br> 
+Contact us! email: evgenia.angel@yahoo.com <br> 
 
 
 **Αγγελάκη Ευγενία-Μακρίνα  (Σχολή Αρχιτεκτόνων Ε.Μ.Π.)** - Angelaki Evgenia - Architecture NTUA
