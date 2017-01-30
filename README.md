@@ -18,7 +18,7 @@ Contact us! email: evgenia.angel@yahoo.com <br>
 Ζαχαριάδης Ιωάννης <br>
 Μάνιος Μανώλης <br>
  <br> <br> <br>
-The idea:<br>
+<b> The idea:<br></b>
 The proposition is focused on the creation of a pleasant stop in the city.<br>
 The bench is based on user convenience, economy of construction and the low maintenance costs. The three materials are: concrete for the seat, metal for the support of the construction and wood for the table.  In the original design, there is also a delimited pit with small white rocks and the presence of a tree, which will intensify the idea of creating a unique space in the city.<br><br>
 The simplicity of the design gives a variety of possibilities of use. The wooden table can be folded and used in different ways.
@@ -26,7 +26,7 @@ Our main goal was to redefine the concept of the bench and create not only a pub
 
  ![photo-pagkaki](https://github.com/ellak-monades-aristeias/Ena-pagkaki-mes-stin-poli/blob/master/12698875_10208758864869377_802075417_o.jpg?raw=true)
 
-<b> ###ΚΕΝΤΡΙΚΗ ΙΔΕΑ-ΧΡΗΣΗ </b> <br>
+<b> ΚΕΝΤΡΙΚΗ ΙΔΕΑ-ΧΡΗΣΗ </b> <br>
 
 
 <br><br><br>
